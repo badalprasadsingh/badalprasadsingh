@@ -1,7 +1,9 @@
-### Hi, I am Badal<br></br>
+### Hey, I am Badal<br></br>
 
-• *currently working on* **Apache Iceberg (Go)**<br>
+• *currently working on* **OLake** & **Apache Iceberg (Go)**<br>
 • *currently reading* **System Performance by Brendan Gregg**<br>
-• *interested in* **big data** *and* **distributed systems**<br></br>
+• and, *currently spending my time learning data engineering internals, researching scalable systems, and experimenting with my ideas*<br>
 
-*fun fact, I used to be an* **artist** *and I love* **chess**<br>
+• *I code in* **Go**, **Java** *and* **Python**<br></br>
+
+*fun fact, I used to be an* **artist** *and I am a* **chess player**<br>
