@@ -6,4 +6,4 @@
 
 • *I code in* **Go**, **Java** *and* **Python**<br></br>
 
-*fun fact, I used to be an* **artist** *and I am a* **chess player**<br>
+*fun fact, I am a big fan of* **[Feynman Algorithm](https://wiki.c2.com/?FeynmanAlgorithm)**<br>
