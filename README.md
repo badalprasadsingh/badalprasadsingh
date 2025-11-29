@@ -1,4 +1,4 @@
-### Hey, I am <img src="Badal.svg" height="23" style="vertical-align: middle; display: inline-block; margin-bottom: 10px; margin-left: 3px;"><br></br>
+### Hey, I am <img src="Badal.svg" height="23" style="vertical-align: middle; display: inline-block; margin-bottom: 8px; margin-left: 5px;"><br></br>
 
 • *currently working on* **[OLake](https://github.com/datazip-inc/olake)** & **[Apache Iceberg (Go)](https://github.com/apache/iceberg-go)**<br>
 • *currently reading* **System Performance by Brendan Gregg**<br>
